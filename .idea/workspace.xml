@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e1a3603-540b-44aa-9486-d3524edb289a" name="Changes" comment="Created subqueries">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10eda067-b197-472c-8025-a76c35dca689.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/10eda067-b197-472c-8025-a76c35dca689.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10eda067-b197-472c-8025-a76c35dca689/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10eda067-b197-472c-8025-a76c35dca689/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10eda067-b197-472c-8025-a76c35dca689/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10eda067-b197-472c-8025-a76c35dca689/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0e1a3603-540b-44aa-9486-d3524edb289a" name="Changes" comment="Created subqueries" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +53,7 @@
       <updated>1687967977635</updated>
       <workItem from="1687967978800" duration="14557000" />
       <workItem from="1688137931832" duration="351000" />
+      <workItem from="1688143905327" duration="1787000" />
     </task>
     <task id="LOCAL-00001" summary="Tested usage of WHERE">
       <created>1688047955688</created>
